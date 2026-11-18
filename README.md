@@ -1,80 +1,93 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   █▀▄▀█ █▄▀ ▀▀█   █▄▄ █▀█ █▀▄▀█ █▀▀ █ █▀▄▀█       ║
-║   █ ▀ █ █ █   █   █▄█ █▄█ █ ▀ █ █▀  █ █ ▀ █       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=200&section=header&text=mk3bomfim&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Natanz%20Jones&descSize=20&descAlignY=55&descColor=d6d4cc" />
 
-**`Natanz Jones`**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&duration=3000&pause=1000&color=0000F2&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Programador+%7C+Rede+%7C+Intelig%C3%AAncia+%7C+Voz;build+%3E+talk)](https://github.com/mk3bomfim)
 
 </div>
 
 ---
 
-### `> whoami`
-
-```
-Programador. Construo ferramentas de rede, inteligência e processamento de voz.
-```
-
----
-
-### `> cat /proc/stack`
-
-```
- HTML5 ██████████████████████████  ████████
- JS    ██████████████████████████  ████████
- Node  ██████████████████████████  ████████
- Python████████████████████████    ████████
- Git   ████████████████████████    ████████
- Linux ████████████████████████    ████████
-```
-
----
-
-### `> ls ~/projects/`
-
-```
-drwxr-xr-x  ARP              Advanced Research Projects
-drwxr-xr-x  openblackmail    Intelligence & Investigation Platform
-drwxr-xr-x  arpanet-suite    Network Tools Suite
-drwxr-xr-x  gravox           Real-time Voice Processing
-```
-
-| projeto | descrição | link |
-|:--------|:----------|:-----|
-| `ARP` | Advanced Research Projects — plataforma de pesquisa aplicada | [→ repo](https://github.com/mk3bomfim/ARP) |
-| `openblackmail` | OpenBlackmail Intelligence & Investigation Platform | [→ repo](https://github.com/mk3bomfim/openblackmail) |
-| `arpanet-suite` | Suite de ferramentas de rede | [→ repo](https://github.com/mk3bomfim/arpanet-suite) |
-| `gravox` | Processamento de voz em tempo real — desktop app | [→ repo](https://github.com/mk3bomfim/gravox) |
-
----
-
-### `> metrics`
+## 🧰 Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mk3bomfim&show_icons=true&hide_border=true&bg_color=d6d4cc&title_color=0000f2&icon_color=0000f2&text_color=0000f2&ring_color=0000f2" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk3bomfim&layout=compact&hide_border=true&bg_color=d6d4cc&title_color=0000f2&text_color=0000f2" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mk3bomfim&hide_border=true&background=d6d4cc&ring=0000f2&fire=0000f2&currStreakLabel=0000f2&sideLabels=0000f2&currStreakNum=0000f2&sideNums=0000f2&dates=06087a" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,linux,bash,vscode&theme=dark&perline=9" />
 
 </div>
 
 ---
 
+## 🚀 Projetos
+
 <div align="center">
 
-```
-$ echo "build > talk"
-```
+<a href="https://github.com/mk3bomfim/ARP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk3bomfim&repo=ARP&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/mk3bomfim/openblackmail">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk3bomfim&repo=openblackmail&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/mk3bomfim/arpanet-suite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk3bomfim&repo=arpanet-suite&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/mk3bomfim/gravox">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk3bomfim&repo=gravox&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9" />
+</a>
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mk3bomfim&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9&ring_color=0000f2&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk3bomfim&layout=compact&hide_border=true&bg_color=0d1117&title_color=0000f2&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mk3bomfim&hide_border=true&background=0d1117&ring=0000f2&fire=0000f2&currStreakLabel=0000f2&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" />
+
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mk3bomfim&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+## 📈 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mk3bomfim&theme=react-dark&hide_border=true&bg_color=0d1117&color=0000f2&line=0000f2&point=ffffff&area=true&area_color=0000f2" width="95%" />
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mk3bomfim/mk3bomfim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mk3bomfim/mk3bomfim/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/mk3bomfim/mk3bomfim/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000f2&height=120&section=footer" />
 
 </div>
