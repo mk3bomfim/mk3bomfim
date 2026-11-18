@@ -25,15 +25,18 @@
 <a href="https://github.com/mk3bomfim/ARP">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk3bomfim&repo=ARP&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/mk3bomfim/openblackmail">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk3bomfim&repo=openblackmail&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9" />
-</a>
 <a href="https://github.com/mk3bomfim/arpanet-suite">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk3bomfim&repo=arpanet-suite&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/mk3bomfim/gravox">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mk3bomfim&repo=gravox&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9" />
-</a>
+
+</div>
+
+<div align="center">
+
+| 🔒 Projeto | Descrição |
+|:-----------|:----------|
+| **openblackmail** | OpenBlackmail Intelligence & Investigation Platform |
+| **gravox** | Real-time voice processing — desktop app |
 
 </div>
 
@@ -43,24 +46,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mk3bomfim&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9&ring_color=0000f2&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk3bomfim&layout=compact&hide_border=true&bg_color=0d1117&title_color=0000f2&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mk3bomfim&show_icons=true&hide_border=true&bg_color=0d1117&title_color=0000f2&icon_color=0000f2&text_color=c9d1d9&ring_color=0000f2&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk3bomfim&layout=compact&hide_border=true&bg_color=0d1117&title_color=0000f2&text_color=c9d1d9&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mk3bomfim&hide_border=true&background=0d1117&ring=0000f2&fire=0000f2&currStreakLabel=0000f2&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" />
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mk3bomfim&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
